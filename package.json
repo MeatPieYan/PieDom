@@ -22,6 +22,9 @@
   "homepage": "https://github.com/MeatPieYan/PieDom#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
+    "rimraf": "^2.6.2"
+  },
+  "peerDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-react": "^6.24.1",
     "react": "^16.2.0",
@@ -30,7 +33,6 @@
     "react-router-config": "^1.0.0-beta.4",
     "react-router-dom": "^4.2.2",
     "redux": "^3.7.2",
-    "redux-saga": "^0.16.0",
-    "rimraf": "^2.6.2"
+    "redux-saga": "^0.16.0"
   }
 }
